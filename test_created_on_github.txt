@@ -1,2 +1,4 @@
-this  file was created ion github
-and if all goes well will show up in the projecct configured in Eclipse/STS
+this  file was created on github
+and if all goes well will show up in the project configured in Eclipse/STS
+
+it was later modified to correct some spelling errors and to add this paragraph
