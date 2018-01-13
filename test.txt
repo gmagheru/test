@@ -1,3 +1,4 @@
 test text file
 added one more line
 a second addition
+a third addition
